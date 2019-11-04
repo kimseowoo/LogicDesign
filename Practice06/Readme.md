@@ -16,11 +16,11 @@
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
 
 ![]()
-![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_183855527_20B2230C-B966-4051-8373-B9DEC06EE375.jpg)
+![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_185822000_0BA60970-0E69-4175-BBA8-67969A572115.PNG)
 ![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_185822000_0BA60970-0E69-4175-BBA8-67969A572115.PNG)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDA5NTE4MywxNjQzMjk4MzQwLDIyNj
+eyJoaXN0b3J5IjpbLTU3NTA2Nzk1NSwxNjQzMjk4MzQwLDIyNj
 I1MTMwMywxMTQ3NTY1NjIzXX0=
 -->
