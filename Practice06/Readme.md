@@ -14,8 +14,9 @@
 ## 결과 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 `Please fill up your source`
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
-`Please fill up your source
+![Alt](img.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MjUxMzAzLDExNDc1NjU2MjNdfQ==
+eyJoaXN0b3J5IjpbMTY0MzI5ODM0MCwyMjYyNTEzMDMsMTE0Nz
+U2NTYyM119
 -->
