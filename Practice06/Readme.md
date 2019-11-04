@@ -12,15 +12,15 @@
 > Q2 - 고정 LED 없이 2개의 LED 단위로 1초 Counter 값 표시 : `00_00_00`, `01_01_01`, `02_02_02`, … 순으로 LED 변경
 ``` assign  six_digit_seg = { seg_left, seg_right, seg_left, seg_right, seg_left, seg_right }  ```
 ## 결과 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
-`Please fill up your source`
+
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
 
-![]()
+
+![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_183855527_20B2230C-B966-4051-8373-B9DEC06EE375.jpg)
 ![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_185822000_0BA60970-0E69-4175-BBA8-67969A572115.PNG)
-![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_185822000_0BA60970-0E69-4175-BBA8-67969A572115.PNG)
+![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_183714230_BD1351B4-754A-46FB-AA1D-C2A7A881E4B8.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTA2Nzk1NSwxNjQzMjk4MzQwLDIyNj
-I1MTMwMywxMTQ3NTY1NjIzXX0=
+eyJoaXN0b3J5IjpbLTE0MzIwMjM1MDBdfQ==
 -->
