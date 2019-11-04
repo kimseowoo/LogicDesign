@@ -14,10 +14,10 @@
 ## 결과 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 `Please fill up your source`
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
-https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_185822000_0BA60970-0E69-4175-BBA8-67969A572115.PNG
 
+![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_185822000_0BA60970-0E69-4175-BBA8-67969A572115.PNG)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDE4MzkyMywxNjQzMjk4MzQwLDIyNj
+eyJoaXN0b3J5IjpbMTgyNDcyMDcyOSwxNjQzMjk4MzQwLDIyNj
 I1MTMwMywxMTQ3NTY1NjIzXX0=
 -->
