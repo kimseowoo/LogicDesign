@@ -14,7 +14,7 @@
 ``` assign  six_digit_seg = { seg_left, seg_right, seg_left, seg_right, seg_left, seg_right }  ```
 ## 결과 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 
-### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
+### **FPGA 동작 사진**
 
 
 ![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_183855527_20B2230C-B966-4051-8373-B9DEC06EE375.jpg)
@@ -23,6 +23,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzkwNDQ5OCwxNDE0ODMxMzEsLTg0OT
-MwMjMwMl19
+eyJoaXN0b3J5IjpbMTEzNTY3MTk5NiwxODE3OTA0NDk4LDE0MT
+Q4MzEzMSwtODQ5MzAyMzAyXX0=
 -->
