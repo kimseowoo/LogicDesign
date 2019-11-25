@@ -15,7 +15,8 @@
 ## 결과 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 
 ### **FPGA 동작 사진**
-### ** WAVE FORM 사진**
+
+
 
 
 ![](https://github.com/kimseowoo/LogicDesign/blob/master/Practice06/picture/P20191104_183855527_20B2230C-B966-4051-8373-B9DEC06EE375.jpg)
@@ -24,6 +25,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODc1Nzk2OCwxMTM1NjcxOTk2LDE4MT
+eyJoaXN0b3J5IjpbMTcyNDQ3NDMzNiwxMTM1NjcxOTk2LDE4MT
 c5MDQ0OTgsMTQxNDgzMTMxLC04NDkzMDIzMDJdfQ==
 -->
